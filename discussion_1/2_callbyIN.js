@@ -1,0 +1,14 @@
+// function modifier(a, b) {
+//     console.log(a, b) 
+//     a = 10
+//     b = 20
+//     console.log(a, b)  //5->
+// }
+
+// let p = [4, 7, 9]
+// let q = [3, 6, 8]
+
+// console.log(p, q)
+// //  value of the reference  
+// modifier(p, q)
+// console.log(p, q) //13 ->
